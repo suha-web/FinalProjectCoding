@@ -67,3 +67,5 @@ The human-written poems (e.g. Salita S. Bryant, Sylvia Plath, Carol Ann Duffy) w
 
 The AI-generated poetry (e.g. I Am Code) was integrated alongside these works to introduce ambiguity, however, with an intention to destabilise the viewer’s ability to assign authorship of which is which as opposed to contrast overtly.
 
+Coding Programming, Suha:
+
