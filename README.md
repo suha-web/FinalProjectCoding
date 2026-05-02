@@ -1,5 +1,6 @@
 https://suha-web.github.io/FinalProjectCoding/
 
+
 \
 
 https://www.geeksforgeeks.org/javascript/p5-js-mousedragged-function/
@@ -78,6 +79,10 @@ The process of creating the code was to create a canvas, then a view port smalle
 The first function is preload which loads in the media like the images that make up the layers and the sound. It runs before anything else.  The next function is setup which creates the canvas. The function draw centres the images and changes the images based on the zoom declared as a variable in the beginning of the code. The mouse event function controls the speed and scale of the zoom. The next function is called which is charged of playing and looping the audio when the mouse is pressed. The function mouse released stops the dragging if the mouse is released while mouse dragged control the dragging. It calculates how much the mouse has moved and moves it by that amount and stores and updates the position.
 
 The audio which was choses is white noise, which we wanted to sound like and reflect the soul. When we reach the layer of the soul it fills up the full scene, becoming inescapable which is the most import part of the project as well as human nature. The definition of white noise is noise containing many frequencies with equal intensities. It contains all the frequences equally but has no structure. It is both everything and nothing at the same time which reflects the heavy and deep theme of humanity as well as the complete contrast of nothing. It reflects how the soul cannot be translated. It leaves a question if the viewers can understand it. 
+
+BY:
+2611464 Suha Shoohani
+2603605 Gabriella Nwanwko-Johns
 
 
 
