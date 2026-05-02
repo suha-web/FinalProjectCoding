@@ -69,3 +69,16 @@ The AI-generated poetry (e.g. I Am Code) was integrated alongside these works to
 
 Coding Programming, Suha:
 
+The object of the code is to create interactions between the audience and the project. Participatory art encourages the audience involvement since the theme questioning humanity. The interaction of zooming in and out has both a meaning and physical objective in the code. Zooming in and out helps the viewers understand the poetry in the project, enabling them to access the different layers of the human body.
+
+It also lets the viewer move from a surface level understanding to the deeper meaning, revealing the real elements. We dehumanised the human body into 6 layers to express the theme of humanity to visualise human nature to the spectators. The mouse scroll also allows a clearer view of the subject as well as the mouse drag. All these technical details create a personal engagement and journey. There is a perceived freedom as the user feels in control but there is still a scale constraint on all these aspects. It is guaranteed that they will see the true meaning and understating of the project, but it is all up to the user.
+
+The process of creating the code was to create a canvas, then a view port smaller than the canvas, the computer screen, that we can drag around to access the rest of the canvas. What we first did was declare the variables for each image (layer) and the sound that would be loaded in later. Then we stated what the current zoom level is when loading into the project and the minimum and maximum zoom levels. Before any of the functions, we created the canvas height and width as well as the world offset. 
+
+The first function is preload which loads in the media like the images that make up the layers and the sound. It runs before anything else.  The next function is setup which creates the canvas. The function draw centres the images and changes the images based on the zoom declared as a variable in the beginning of the code. The mouse event function controls the speed and scale of the zoom. The next function is called which is charged of playing and looping the audio when the mouse is pressed. The function mouse released stops the dragging if the mouse is released while mouse dragged control the dragging. It calculates how much the mouse has moved and moves it by that amount and stores and updates the position.
+
+The audio which was choses is white noise, which we wanted to sound like and reflect the soul. When we reach the layer of the soul it fills up the full scene, becoming inescapable which is the most import part of the project as well as human nature. The definition of white noise is noise containing many frequencies with equal intensities. It contains all the frequences equally but has no structure. It is both everything and nothing at the same time which reflects the heavy and deep theme of humanity as well as the complete contrast of nothing. It reflects how the soul cannot be translated. It leaves a question if the viewers can understand it. 
+
+
+
+
